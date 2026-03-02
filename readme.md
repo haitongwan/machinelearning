@@ -235,13 +235,5 @@ http://www.cnblogs.com/pinard 刘建平Pinard
 [用PMML实现机器学习模型的跨平台上线](https://www.cnblogs.com/pinard/p/9220199.html)|[代码](https://github.com/ljpzzz/machinelearning/blob/master/model-in-product/sklearn-jpmml)
 [tensorflow机器学习模型的跨平台上线](https://www.cnblogs.com/pinard/p/9251296.html)|[代码](https://github.com/ljpzzz/machinelearning/blob/master/model-in-product/tensorflow-java)
 
-<h3 id="13">赞助我</h3>
-
-你的支持是我写作的动力(1.微信/2.支付宝)：
-
-![微信赞助](./assert/invoice.bmp)
-
-
-![支付宝赞助](./assert/invoice_ali.bmp)
 
 License MIT.
